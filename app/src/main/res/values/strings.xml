@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidLecture01</string>
+    <string name="action_here">action here</string>
+    <string name="finish_activity">finish activity</string>
+
+    <string name="hello_main_fragment">Hello main fragment</string>
+    <string name="change_a_b">change A / B</string>
+</resources>
