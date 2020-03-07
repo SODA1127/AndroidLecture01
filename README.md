@@ -1,17 +1,5 @@
 # Activity | Fragment Assignment 평가 기준
 
-
-
-- 선택한 주제 내용을 학생이 연습할 수 있어야 합니다.
-- hands-on-practice, get-your-hands-dirty 정신이 담겨있어야 합니다.
-- 가능하면 실무에 가까운, 실무와 유사한 형태의 과제여야 합니다.
-- bare minimum requirements, advanced 로 나뉘어져 있어야 합니다.
-- 학생이 과제를 제출하면 어떤 식으로 과제를 평가할 수 있을지에 대한 의견이 담겨야 합니다.
-
-
-
-
-
 ## 학생 과제 제출 시 조건
 
 ### 	최소 요구사항
